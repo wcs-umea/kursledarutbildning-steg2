@@ -1,0 +1,36 @@
+project:
+  type: website
+
+
+# several branches can be specified here
+branches:
+  - branch: "release-2603"     # change this to the release branch
+    output-dir: "2603"         # change this to year and month of the course instance
+
+website:
+  title: "Kursledarutbildning Steg 2"
+  sidebar:
+    style: "floating"
+    background: "#F4F6F6"
+    fontsize: 30px
+    search: true
+    contents: 
+      - index.qmd 
+      - text: "Kursledarprogram"
+        href: https://wcs-umea.github.io/kursledarprogram/2025-2026/
+  #    
+  navbar:
+    background: "#0173b2"
+    logo: "img/wcsumea-logo.png"
+  favicon: "img/wcsumea-logo.png"
+  body-footer: footer.html
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto

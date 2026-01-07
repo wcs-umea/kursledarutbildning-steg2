@@ -1,0 +1,31 @@
+---
+title: "Information"
+date: today
+---
+
+::: {.callout-warning icon=false}
+
+## Om
+
+**Organisatör:** 	                West Coast Swing Umeå  
+**Datum:**	   	                    7 - 8 mars  
+**Var:**		 			        Umeå    
+
+:::
+
+## Kursbeskrivning
+
+Kursen går igenom de grundläggande kunskaperna som krävs för att på egen hand kunna hålla Steg 2-kurser inom WCS. Kursen går igenom de turer och tekniker som kan läras ut på en sådan kurs, samt hur man bäst lägger upp sin kurs.
+
+Denna kurs är en del av [Kursledarprogrammet i WCS 2025-2026](https://wcs-umea.github.io/kursledarprogram/2025-2026/).
+
+## Kursmål
+Efter avslutad kurs ska eleven ha de kunskaper och verktyg för att kunna planera och hålla:
+
+- Fortsättningskurs Steg 2
+
+
+## Lärandemål
+
+Efter avslutad utbildning ska eleven kunna:
+
