@@ -1,0 +1,33 @@
+---
+title: "Schema"
+date: today
+---
+
+<br>
+
+#### **Lördag den 7 mars**
+
+| Tid           |      |
+|---------------|------|
+| 11:00 - 11:15 | Introduktion till dagen |
+| 11:15 - 12:00 | Repetition: Steg 1 |
+| 12:00 - 12:30 | Teori: Turer och tekniker |
+| 12:30 - 13:30 | Lunch |
+| 13:30 - 16:00 | Genomgång: Turer |
+
+: {tbl-colwidths="[25,75]"} 
+
+<br/>
+     
+#### **Söndag den 8 mars**  
+
+| Tid           |      |
+|---------------|------|
+| 10:00 - 12:00 | Genomgång: Turer |
+| 12:00 - 13:00 | Lunch |
+| 13:00 - 13:30 | Teori: Feedback |
+| 13:30 - 14:00 | Övning: Ge feedback |
+| 14:00 - 16:00 | Övning: Planera och håll en lektion |
+
+
+: {tbl-colwidths="[25,75]"} 

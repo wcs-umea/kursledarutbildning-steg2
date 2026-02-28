@@ -16,14 +16,18 @@ website:
     search: true
     contents: 
       - index.qmd 
+      - schedule.qmd
+      - step2_syllabus.qmd
+      - licence.qmd
       - text: "Kursledarprogram"
         href: https://wcs-umea.github.io/kursledarprogram/2025-2026/
   #    
   navbar:
-    background: "#0173b2"
+    background: "#4A7263"
     logo: "img/wcsumea-logo.png"
   favicon: "img/wcsumea-logo.png"
   body-footer: footer.html
+  body-header: banner.html
 
 
 format:

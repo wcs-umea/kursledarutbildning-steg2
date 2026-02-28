@@ -27,5 +27,11 @@ Efter avslutad kurs ska eleven ha de kunskaper och verktyg för att kunna planer
 
 ## Lärandemål
 
-Efter avslutad utbildning ska eleven kunna:
+Efter avslutad utbildning ska deltagarna kunna:
+
+- Demonstrera turerna enligt syllabus med korrekt timing och grundläggande teknik
+- Förklara hur turerna på Steg 2 relaterar till de grundläggande turerna
+- Använda föreslagen metodik för att lära ut turerna enligt kursplan Steg 2
+- Selektera användbar feedback från deltagarna för att förbättra kursen
+- Utvärdera och ge feedback på andra kursledare när det efterfrågas
 

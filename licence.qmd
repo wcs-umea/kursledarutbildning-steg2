@@ -1,0 +1,16 @@
+---
+title: "Licens"
+---
+
+## Licens
+
+Här finns allt material för programmet sparat. Materialet är skapat under CC-BY-SA, vilket betyder att det får fritt användas, delas och bearbetas, så länge originalförfattarna anges och bearbetningar sprids under samma licens.
+
+## Personer som bidragit till materialet
+
+Följande personer har bidragit till skapandet av detta material:
+
+Huvudförfattare:
+
+- Nina Norgren
+- Chris Blöcker
