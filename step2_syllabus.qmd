@@ -87,8 +87,10 @@ Demonstrera hur deltagarna kan hålla axlarna på plats, utan att spänna biceps
 
 #### Slingshot (~20 min)
 
-En slingshot kan göras med några olika timings. Här fokuserar vi i första hand på den enklaste, med endast gå-gå steg. Visa, Pröva, Instruera, Öva gäller fortfarande. För en mer detaljerad instruktion till turen:
+En slingshot kan göras med några olika timings. Här fokuserar vi i första hand på den enklaste, med endast gå-gå steg för följaren, och tap steg och trippelsteg för föraren. Visa, Pröva, Instruera, Öva gäller fortfarande. För en mer detaljerad instruktion till turen:
 
+- Följarens timing är 1(H), 2(V), 3(H), 4(V), 5(H), 6(V)
+- Förarens timing är 1(V), 2(H), tap på 3(V), steg på 4 (V), trippelsteg 5&6(H, V, H)
 - Föraren söker följarens vänstra hand tidigt (innan 2)
 - Det är förarens kroppsposition och viktförflyttning som ger förning, inte armar. Många förare kommer att använda armarna mer än nödvändigt. Poängtera att det är föraren som rör sig i motsatt håll från följaren som ger förningen i denna tur. 
 - Frame är väldigt viktigt i denna tur, se till att händerna inte hamnar för högt
@@ -113,12 +115,12 @@ Börja med att fråga om det var några som missade förra tillfället. Om så, 
 
 #### Cut off/Hip catch (~25 min)
 
-Även i en cut off finns det olika timings som föraren kan föra, men här fokuserar vi på den med endast gå-gå timing då den är enklast. Cut off passar bra att lära ut efter slingshot, då de liknar varandra, men är på olika sidor av föraren. Några viktiga punkter att tänka på i en cut off:
+Även i en cut off finns det olika timings som föraren kan föra, men här fokuserar vi på den med endast gå-gå timing för både förare och följare då den är enklast. Cut off passar bra att lära ut efter slingshot, då de liknar varandra, men är på olika sidor av föraren. Några viktiga punkter att tänka på i en cut off:
 
 - Föraren startar förningen som i en under arm, men sätter fram höger hand för att connecta med följaren
 - Förarens högra hand ska fånga upp följaren innan 3, och placeras strax under bröstkorgen på följarens högra sida. Trots att namnet hip catch ofta används om denna tur så ska handen inte placeras på höften
 - Även i en cut off är det att föraren rör sig i motsatt riktning som följaren som skapar förningen, inte armarna
-- Det är handen närmast följarens center som är ansvarig för förningen. Det betyder att det är förarens högra hand som för ut följaren från cut offen, inte den vänstra. Många förare drar för mycket med vänster
+- Det är handen närmast följarens center som är ansvarig för förningen. Det betyder att det är förarens högra hand som för ut följaren från cut offen (genom body lead), inte den vänstra. Många förare drar för mycket med vänster
 - Ta gärna lite mer tid här och prata om att förningen kommer från den hand som är närmast följarens center. Andra exempel är i en whip på 3&4
 - När följaren känner connection i sidan så ska hen aktivt söka det connection. Samma här, många följare lutar med överkroppen istället för att gå med sidan. Om de får så mycket utrymme att de inte kan söka connection utan att tippa, så be dem ta ett steg till, hellre än att tippa överkroppen
 
@@ -286,19 +288,29 @@ Börja med att fråga om det var några som missade förra tillfället. Om så, 
 
 #### Double outside turn
 
+En double outside turn är en right side pass med 2,5 vars rotation för följaren. En enkel double outside turn används nästan aldrig och känns väldigt konstig att utföra, därav att vi istället lär ut en double outside turn.
 
+- Föraren indikerar med en liten prep på 1an att rotationen kommer
+- På 2an kommer en kompression, där det är viktigt att följaren tar kompressionen. Många följare börjar rotera utan att ta kompressionen
+- Förarens fingrar ska peka något utåt, då det är en outside turn
+- Preparationen för snurren för följaren kommer på 2an där de måste använda sin frame för preppen
+- Timiningen är vanligt 6 count timing med trippelsteg
 
 
 ### Tillfälle 8
 
+#### Uppvärmning (~5 min)
 
+Låt deltagarna dansa själva för att värma upp. Deltagare som kommer lite sent till kursen har då en chans att hoppa in utan att missa något.
 
+#### Repetition av alla turer (~35 min)
 
+Gå väldigt kort igenom alla turer som gåtts igenom under kursen. Fråga deltagarna om de har några frågor. Gå gärna igenom 2 turer i taget, och sedan spela lite musik så de får träna.
 
-::: {.callout-warning icon=false}
+#### Fri dans (~20 min)
 
-## 
-Upplägget i efterföljande tillfällen är detsamma som ovan, men i texten kommer vi endast fokusera på de unika detaljerna för varje tur och koncept
+Låt deltagarna dansa fritt, gå gärna med i rotationen och ge feedback.
 
-:::
+**Bonus**  
+Om ni känner att gruppen vill ha mer, lägg till fler tapsteps till slingshoten. Föraren fortsätter med tap step för att förlänga tiden inne i slingshoten. Följaren gör då också tap steps efter count 4, tills föraren för ut och följaren gör gå gå.
 

@@ -1,0 +1,286 @@
+---
+page-title: "Introduktion och repetition"
+
+format: 
+    revealjs:
+        theme: [default, custom.scss]
+        title-slide: false
+        logo: ../img/wcsumea-logo-black.png
+        footer: "Kursledarprogram WCS 2025-2026"
+        
+---
+
+
+# Introduktion {background-color="#880088" footer=false}
+
+<br>
+
+::: {#logo}
+![](../img/wcsumea-logo.png){width=25%}
+:::
+
+<br>
+
+Kursledarprogram WCS 2025-2026
+
+
+## Programmets upplägg
+
+
+| Datum | Tid  | Aktivitet |
+|------|-------|---------| 
+| 18 - 19 okt | 11.00 - 17.00 | Umeå: Utbildning Steg 1 |
+| 13 nov    | 19.00 - 20.00 | Online: Pedagogik och lärande |
+| 28 jan    | 19.00 - 20.00 | Online: Din roll som ledare och förebild |
+| 2 mar     | 19.00 - 20.00 | Online: Din utveckling som kursledare |
+| 7 - 8 mar | 11.00 - 17.00 | Umeå: Utbildning Steg 2 |
+| 27 april  | 19.00 - 20.00 | Online: Wrap-up |
+: {tbl-colwidths="[25,30,45]"} 
+
+
+## Schema för Steg 2
+
+<br>
+
+#### **Lördag den 7 mars**
+
+| Tid           |      |
+|---------------|------|
+| 11:00 - 11:15 | Introduktion till dagen |
+| 11:15 - 12:00 | Repetition: Steg 1 |
+| 12:00 - 12:30 | Teori: Turer och tekniker |
+| 12:30 - 13:30 | Lunch |
+| 13:30 - 16:00 | Genomgång: Turer |
+
+: {tbl-colwidths="[25,75]"} 
+
+## Schema för Steg 2
+
+<br/>
+     
+#### **Söndag den 8 mars**  
+
+| Tid           |      |
+|---------------|------|
+| 10:00 - 12:00 | Genomgång: Turer |
+| 12:00 - 13:00 | Lunch |
+| 13:00 - 13:30 | Teori: Feedback |
+| 13:30 - 14:00 | Övning: Ge feedback |
+| 14:00 - 16:00 | Övning: Planera och håll en lektion |
+
+: {tbl-colwidths="[25,75]"} 
+
+## Uppföljning observation och praktik
+
+<br>
+
+Hur många har observerat en lektion?
+
+Hur många har hållit en lektion och reflekterat?
+
+<br>
+<br>
+
+::: fragment
+Några tankar kring uppgifterna?
+:::
+
+
+# Repetition Steg 1
+
+## Varför går deltagarna kurs?
+<br>
+
+- Lära sig dansa
+- Röra sig till bra musik
+- Träffa nya människor
+- Ha roligt
+- Träffa en partner
+- "Komma ut ur huset ett tag"
+
+Målet med en nybörjarkurs är att deltagarna **har roligt** och **kommer tillbaka** för fortsättningskursen.
+
+## Turer Steg 1
+
+<br>
+
+| Left side      | Middle       | Right side |
+|----------------|--------------|------------|
+| 1. Left side pass | 3. Sugar push   | 2. Under arm  |
+| 4. Left side turn | 5. Sugar tuck   | 7. Whip       |
+| 8. Free spin      | 6. Starter step |            |
+: {tbl-colwidths="[33,33,33]"} 
+
+## Ramverk
+
+<br>
+
+En tydlig struktur som hjälper oss att planera och hålla en kurs, och som bygger på pedagogiska principer för lärande.
+
+## Visa, Pröva, Instruera, Öva
+
+<br>
+
+* Visuellt, auditivt, kinestetiskt lärande
+* Stegvis övning av turer
+
+::: fragment
+
+Exempel:
+
+* **Visa** en Sugar tuck
+* Låt deltagarna **Pröva** en Sugar tuck
+* **Instruera** mer i detalj
+* Låt deltagarna **Öva** Sugar push
+
+:::
+
+## Upplägg av kurstillfällen
+
+<br>
+
+-   Repetition av föregående tillfälle
+-   Tekniskt koncept
+-   Tur som kräver det tekniska konceptet
+
+::: fragment
+
+Exempel:
+
+-   Repetera föregående tillfälles tur: Left side pass
+-   Tekniskt koncept: snurrteknik (prep, spotting, korta steg)
+-   Tur som kräver det tekniska konceptet: Left side turn
+:::
+
+## Frågor och feedback
+
+<br>
+
+* Uppmuntra till frågor
+* Förklara varför något är på ett specifikt sätt
+* Deltagare lär sig av att fråga
+
+::: fragment
+
+Exempel:
+
+* Efter att ha gått igenom Left side pass och Under arm:  
+    *"Nu har följaren passerat på förarens högra, och vänstra sida, vilka alternativ har vi nu kvar? (Sugar push)"*
+
+* Efter att ha gått igenom en whip:  
+    *"Hur många tycker steg 4 är svårt? (använd resultatet för att gå igenom det igen)"*
+
+:::
+
+## Rotation och placering
+
+<br>
+
+* Börja i samma riktning
+* High five och rotera
+* Rotera efter 1-2 försök, se till att extra följare får test
+
+::: fragment
+
+Exempel:
+
+* "Alla förare börjar med näsan mot fönstret"
+* Testa turen 2 gånger, "high five och rotera"
+* Repetera
+
+:::
+
+## Räkning och taktning
+
+<br>
+
+* Räkna in 5,6,7,8 till musiken
+* Börja på "fel fot" och förklara varför
+* Växla mellan siffror och ljudning
+* Annonsera nästkommande tur på 5&6
+
+::: fragment
+
+Exempel:
+
+* Räkna in: 5,6,7,8
+* Räkna turen: 1,2,3&4,5&6
+* Ljuda turen: gå, gå, tripp-el-steg, tripp-el-steg
+* Förbered för nästa tur: gå, gå, tripp-el-steg, sug-ar-push
+
+:::
+
+## Lärarlett eller ej
+
+<br>
+
+* Börja med lärarlett
+* Fortsätt med räkning
+* Avsluta med att deltagarna själva får starta och välja turer
+
+::: fragment
+
+Exempel:
+
+* Kursledaren räknar in, samt räknar igenom hela turen
+* Kursledaren ger föraren alternativet mellan Under arm och Left side pass. Kursledaren räknar in och räknar, föraren bestämmer turen
+* Kursledaren räknar in, men föraren bestämmer fritt vilka turer som dansas
+
+:::
+
+## Sammanfattning
+
+::: {style="font-size: 0.5em"}
+
+| **Ramverk** | **1.<br>Tidigare erfarenheter** | **2.<br>Kunskapens struktur** | **3.<br>Motivation** | **4.<br>Sakkunskap** | **5.<br>Mål & feedback** | **6.<br>Lärandeklimat** | **7.<br>Självstyrning & reflektion** |
+|:----------------|:-------------------------------:|:---------------------------------:|:-------------------:|:-----------------------------:|:--------------------------:|:------------------------:|:-----------------------------------:|
+| **Upplägg av kurstillfällen** | ✅ | ✅ |  | ✅ |  |  | 🟡 |
+| **Visa, pröva, instruera, öva** | ✅ | ✅ |  |  | ✅ |  |  |
+| **Frågor och feedback** |  |  | ✅ |  | ✅ | ✅ | ✅ |
+| **Rotation och placering** |  |  |  |  | ✅ | ✅ |  |
+| **Räkning och takning** |  | ✅ |  |  | ✅ |  |  |
+| **Lärarledd eller fri övning** |  |  | ✅ | ✅ | ✅ |  |  |
+
+::: 
+
+::: {style="font-size: 0.5em"}
+✅ = Stark koppling  🟡 = Sekundär/indirekt koppling
+:::
+
+
+## Skapa trygga miljöer
+
+<br>
+
+**Vad menas med trygghet och inkludering?**
+
+- En miljö där **alla känner sig välkomna, respekterade och delaktiga**
+- Inkludering handlar inte bara om att *inte exkludera* – utan att **aktivt skapa utrymme för alla**
+
+::: fragment
+**Psykologisk trygghet:**
+
+En grupp där man vågar ta risker, ställa frågor och göra misstag utan rädsla för att bli förlöjligad
+
+:::
+
+## Grunder för trygghet
+
+- Undvik att säga “fel” – fokusera på *vad som fungerar*  
+- Ge **konkret feedback**  
+- Normalisera misstag: *“Det är vanligt att det känns konstigt i början.”*
+- Ge **positiv feedback** när något är bra
+
+## Musik
+
+<br>
+
+Grunderna:
+
+- Tempo: 80-100 bpm
+- Taktfast, 4/4, undvik förvirrande baktakt
+- Tydlig downbeat (1, 3, 5, 7) och upbeat (2, 4, 6, 8)
+- Undvik låtar med långa intro eller partier utan tydlig takt
+- Variera genre och känsla
+- Är explicita versioner okej?
+- Observera hur dina elever reagerar på musiken. Är någon av låtarna för svår?

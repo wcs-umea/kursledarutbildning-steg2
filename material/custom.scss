@@ -1,0 +1,52 @@
+/*-- scss:defaults --*/
+
+$body-bg: #f7f2f7;
+$body-color: #333333;
+$link-color: #880088;
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
+
+h1 {
+    text-align: center;
+  }
+
+
+h2 {
+    color: #880088!important;
+}
+
+#logo {
+    text-align: center;
+}
+
+#logo img {
+    display: inline-block;
+    max-width: 100%; /* Optional: scales for smaller viewports */
+    height: auto;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.overlay-box {
+  position: absolute;
+  border-radius: 30px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background-color: rgba(#880088, 0.95); /* semi-transparent black */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 2em;
+  z-index: 9999;
+}

@@ -17,6 +17,7 @@ website:
     contents: 
       - index.qmd 
       - schedule.qmd
+      - course_material.qmd
       - step2_syllabus.qmd
       - licence.qmd
       - text: "Kursledarprogram"
