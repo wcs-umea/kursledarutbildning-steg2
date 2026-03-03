@@ -89,7 +89,6 @@ Några tankar kring uppgifterna?
 # Repetition Steg 1
 
 ## Varför går deltagarna kurs?
-<br>
 
 - Lära sig dansa
 - Röra sig till bra musik
@@ -102,8 +101,6 @@ Målet med en nybörjarkurs är att deltagarna **har roligt** och **kommer tillb
 
 ## Turer Steg 1
 
-<br>
-
 | Left side      | Middle       | Right side |
 |----------------|--------------|------------|
 | 1. Left side pass | 3. Sugar push   | 2. Under arm  |
@@ -113,13 +110,9 @@ Målet med en nybörjarkurs är att deltagarna **har roligt** och **kommer tillb
 
 ## Ramverk
 
-<br>
-
 En tydlig struktur som hjälper oss att planera och hålla en kurs, och som bygger på pedagogiska principer för lärande.
 
 ## Visa, Pröva, Instruera, Öva
-
-<br>
 
 * Visuellt, auditivt, kinestetiskt lärande
 * Stegvis övning av turer
@@ -137,8 +130,6 @@ Exempel:
 
 ## Upplägg av kurstillfällen
 
-<br>
-
 -   Repetition av föregående tillfälle
 -   Tekniskt koncept
 -   Tur som kräver det tekniska konceptet
@@ -153,8 +144,6 @@ Exempel:
 :::
 
 ## Frågor och feedback
-
-<br>
 
 * Uppmuntra till frågor
 * Förklara varför något är på ett specifikt sätt
@@ -174,8 +163,6 @@ Exempel:
 
 ## Rotation och placering
 
-<br>
-
 * Börja i samma riktning
 * High five och rotera
 * Rotera efter 1-2 försök, se till att extra följare får test
@@ -191,8 +178,6 @@ Exempel:
 :::
 
 ## Räkning och taktning
-
-<br>
 
 * Räkna in 5,6,7,8 till musiken
 * Börja på "fel fot" och förklara varför
@@ -211,8 +196,6 @@ Exempel:
 :::
 
 ## Lärarlett eller ej
-
-<br>
 
 * Börja med lärarlett
 * Fortsätt med räkning
@@ -250,7 +233,6 @@ Exempel:
 
 ## Skapa trygga miljöer
 
-<br>
 
 **Vad menas med trygghet och inkludering?**
 
@@ -273,7 +255,6 @@ En grupp där man vågar ta risker, ställa frågor och göra misstag utan räds
 
 ## Musik
 
-<br>
 
 Grunderna:
 

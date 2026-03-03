@@ -33,7 +33,7 @@ Målet med fortsättningskurs Steg 2 är att deltagarna ska få solida grunder o
 
 <br>
 
-Förslag på turer som passar att lära ut på en veckokurs Steg 2-kurs, 1h x 8 tillfällen. Detta är ett förslag, och kan adapteras efter kurslängd och deltagare.
+Förslag på turer som passar att lära ut på en veckokurs Steg 2-kurs, 1h x 8 tillfällen. Detta kan adapteras efter kurslängd och deltagare.
 
 <br>
 
@@ -58,3 +58,17 @@ Följande tekniska koncept är lämpliga att ta upp på en Steg 2-kurs.
 | Body lead | Få till frame så pass att förarna inte använder biceps |
 
 : {tbl-colwidths="[25,75]"}
+
+## Överblick
+
+|                |               |
+|----------------|---------------|
+| Vecka 1        | Slingshot     |
+| Vecka 2        | Cut off       |
+| Vecka 3        | Whip med inside turn |
+| Vecka 4        | Whip med outside turn |
+| Vecka 5        | Reversed whip |
+| Vecka 6        | Roll in roll out |
+| Vecka 7        | Double outside turn |
+| Vecka 8        | Repetition |
+

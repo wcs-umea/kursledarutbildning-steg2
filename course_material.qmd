@@ -7,4 +7,16 @@ date: today
 
 <iframe src="material/introduction.html" width="100%" height="300px" style="border: none;"></iframe>
 
+[Ladda ner PDF](material/introduction.pdf){target="_blank"}
 
+## Turer och tekniker
+
+<iframe src="material/patterns.html" width="100%" height="300px" style="border: none;"></iframe>
+
+[Ladda ner PDF](material/patterns.pdf){target="_blank"}
+
+## Feedback
+
+<iframe src="material/feedback.html" width="100%" height="300px" style="border: none;"></iframe>
+
+[Ladda ner PDF](material/feedback.pdf){target="_blank"}
