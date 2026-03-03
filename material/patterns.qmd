@@ -10,7 +10,7 @@ format:
         
 ---
 
-# Introduktion {background-color="#880088" footer=false}
+# Turer och tekniker {background-color="#880088" footer=false}
 
 <br>
 
