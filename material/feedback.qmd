@@ -128,13 +128,10 @@ Hur kan vi hjälpa varandra att utvecklas som kursledare?
 
 ## Övning: ge feedback
 
-<br>
-
-- Ett par lär ut en kort tur eller koncept
-- De berättar vad de vill ha feedback på innan de börjar
-- Efter utlärningen får paret reflektera över hur det gick
-- De andra studerar utlärningen och ger feedback efteråt:
-  - Vad var bra med sättet de lärde ut på?
-  - Vad tror ni skulle kunna förbättra utlärningen?
-- Paret som lär ut får sedan en chans till att lära ut samma sak och inkorporera feedbacken
-- De som gav feedback berättar vad de tog med sig som de kan använda i sin egen undervisning
+1. Ett par lär ut en kort tur eller koncept och berättar vad de vill ha feedback på innan de börjar
+2. Efter utlärningen får paret reflektera över hur det gick
+3. De andra studerar utlärningen och ger feedback efteråt:
+    i. Vad var bra med sättet de lärde ut på?
+    ii. Vad tror ni skulle kunna förbättra utlärningen?
+4. Paret som lär ut får sedan en chans till att lära ut samma sak och inkorporera feedbacken
+5. De som gav feedback berättar vad de tog med sig som de kan använda i sin egen undervisning

@@ -101,6 +101,8 @@ Målet med en nybörjarkurs är att deltagarna **har roligt** och **kommer tillb
 
 ## Turer Steg 1
 
+<br>
+
 | Left side      | Middle       | Right side |
 |----------------|--------------|------------|
 | 1. Left side pass | 3. Sugar push   | 2. Under arm  |
@@ -109,6 +111,8 @@ Målet med en nybörjarkurs är att deltagarna **har roligt** och **kommer tillb
 : {tbl-colwidths="[33,33,33]"} 
 
 ## Ramverk
+
+<br>
 
 En tydlig struktur som hjälper oss att planera och hålla en kurs, och som bygger på pedagogiska principer för lärande.
 
@@ -265,3 +269,160 @@ Grunderna:
 - Variera genre och känsla
 - Är explicita versioner okej?
 - Observera hur dina elever reagerar på musiken. Är någon av låtarna för svår?
+
+
+# Repetition Seminarier
+
+## Lärandemål och Bloom's 
+
+
+**Varför använder vi lärandemål?**
+
+<br>
+
+* Beskriver vad deltagarna ska kunna efter lektionen/kursen
+
+* Gör det lättare att planera en lektion utefter vad målet är
+
+* Gör det lättare att utvärdera om målet är uppnått
+
+* Gör det lättare att kommunicera med andra kursledare
+
+
+## Hur definierar vi bra mål i dans?
+
+<br>
+
+Istället för **“jobba med stretch”**:
+
+::::: columns
+::: {.column width="50%"}
+
+* **Förstå**: Kan beskriva vad stretch innebär
+* **Tillämpa**: Kan skapa stretch i ankarsteg
+* **Analysera**: Kan identifiera var i dansen stretch saknas
+* **Skapa**: Kan skapa nya turer beroende på hur stretchen varieras
+:::
+
+::: {.column width="50%"}
+![](img/Blooms_Taxonomy.jpg){fig-align="right" height=400}
+:::
+:::::
+
+## Välja lärandeaktiviteter utefter lärandemål
+
+<br>
+
+::: {.smaller}
+
+| Blooms | Aktivitet  | Dansaktivitet |
+|--------|------------|---------------| 
+| Komma ihåg | Föreläsning   | Teoretisk introduktion  |
+| Förstå     | Uppsats       | Kategorisera turer      |
+| Tillämpa   | Övningar      | Dansa och använda turer |
+| Analysera  | Övningar      | Bryta ner turer i delar |
+| Utvärdera  | Peer feedback | Utvärdera din/andras dans, ge feedback |
+| Skapa      | Grupparbete   | Musikalitetsövningar, Fortsätta från en viss punkt |
+: {.small-table .sm tbl-colwidths="[25,25,50]"}
+:::
+
+## Kognitiv belastning – hur mycket kan vi säga på en gång?
+
+<br>
+
+::: incremental
+* Arbetsminnet är begränsat, överbelasta det inte
+* Chunking: dela upp komplexa moment i tydliga smådelar
+* Ge en instruktion i taget
+* Undvik att undervisa figur + teknik + styling samtidigt
+* Visa före du förklarar (VPIÖ)
+:::
+
+## Din roll som ledare
+
+<br>
+
+**Varför pratar vi om ledarskap?**
+
+<br>
+
+- West Coast Swing-communityt är fortfarande ganska nytt
+- Kultur skapas tidigt av de som driver communityt
+- Som kursledare har du större påverkan än du tror
+
+
+## Mer än en instruktör
+
+<br>
+
+Som kursledare är du också:
+
+- Förebild
+- Normsättare
+- Trygghetsskapare
+- Ambassadör för communityt
+
+## Det osynliga ansvaret
+
+<br>
+
+Även när du inte undervisar:
+
+- Folk tittar på hur du beter dig
+- Hur du pratar om andra
+- Vem du dansar med
+- Hur du hanterar konflikter
+
+**Oavsett om du vill eller inte – du påverkar**
+
+## Din utveckling som kursledare
+
+<br>
+
+**Phase I: Emphasis on teaching**
+
+::: incremental
+* Focus on self: "Am I doing the right thing? Am I doing it well?"
+* Focus on subject: "Am I covering the material? Am I giving good explanations?"
+* Focus on students: "Are the students learning? Are they engaged?"
+:::
+
+## Din utveckling som kursledare
+
+<br>
+
+::: fragment
+**Phase II: Emphasis on learning**
+
+::: incremental
+* Student as receptive: "Are the students receiving the information? Are they understanding?"
+* Student as active: "Are the students applying the information? Are they analysing?"
+* Student as independent: "Are the students creating new knowledge? Are they evaluating?"
+:::
+
+:::
+
+## Teaching styles
+
+1. Expert → Experten\
+Läraren fokuserar på att förmedla ämneskunskap och visa sin expertis för att utveckla studenternas kompetens.
+
+2. Formal Authority → Formell auktoritet\
+Läraren betonar regler, standarder och tydliga förväntningar kring vad som är korrekt och acceptabelt.
+
+3. Personal Model → Personlig förebild\
+Läraren undervisar genom att visa hur man tänker och arbetar, så att studenter kan observera och efterlikna. 
+
+## Teaching styles
+
+4. Facilitator → Handledare (eller Facilitator)\
+Läraren vägleder genom frågor och stöd så att studenter utvecklar självständigt tänkande och ansvar.
+
+5. Delegator → Delegator (eller Delegerande lärare)\
+Läraren ger studenter stort ansvar att arbeta självständigt eller i team medan hen fungerar som resurs.
+
+6. Bonus in dancing: Entertainer
+
+##
+
+![](img/teaching_styles.png){fig-align="center"}
