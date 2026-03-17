@@ -1,0 +1,76 @@
+---
+title: "Videos"
+date: today
+---
+
+## Sammanfattning av kursmaterialet
+
+Nedan följer en kort sammanfattning av de turer som ingår i en Steg 2-kurs.
+
+
+
+### Slingshot
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/Sbk1OpemJ8Q?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Cut off/Hip catch
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/0P8LqaoAjDQ?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Whip med inside turn
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/GBvPa98is-E?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+
+### Whip med outside turn
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/0wadlC1IbrY?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+
+### Reversed whip
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/-Gzl3JaM0tg?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Roll in roll out
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/WRXAE61aZ2U?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Double outside turn
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/D53-F-UOFts?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>

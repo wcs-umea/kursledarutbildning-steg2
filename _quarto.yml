@@ -19,6 +19,7 @@ website:
       - schedule.qmd
       - course_material.qmd
       - step2_syllabus.qmd
+      - videos.qmd
       - licence.qmd
       - text: "Kursledarprogram"
         href: https://wcs-umea.github.io/kursledarprogram/2025-2026/
