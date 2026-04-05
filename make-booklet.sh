@@ -1,23 +1,23 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-echo "Rendering HTML slides to PDF..."
-for f in material/*.qmd; do
-  base=$(basename "$f" .qmd)
-  html="_site/material/$base.html"
-  pdf="booklet-pdfs/presentations/$base.pdf"
+#echo "Rendering HTML slides to PDF..."
+#for f in material/*.qmd; do
+#  base=$(basename "$f" .qmd)
+#  html="_site/material/$base.html"
+#  pdf="booklet-pdfs/presentations/$base.pdf"
 
-  if [ -f "$html" ]; then
-    echo "Generating PDF for $html"
-    docker run --rm -t \
-      -v "$(pwd)":/slides \
-      ghcr.io/astefanutti/decktape \
-      reveal \
-      "$html" "$pdf" --fragments=false
-  else
-    echo "Skipping: $html not found"
-  fi
-done
+#  if [ -f "$html" ]; then
+#    echo "Generating PDF for $html"
+#    docker run --rm -t \
+#      -v "$(pwd)":/slides \
+#      ghcr.io/astefanutti/decktape \
+#      reveal \
+#      "$html" "$pdf" --fragments=false
+#  else
+#    echo "Skipping: $html not found"
+#  fi
+#done
 
 
 # Combine them
@@ -42,8 +42,10 @@ pdfjam booklet-pdfs/presentations/presentations_reordered.pdf \
 
 # Build list of inputs
 INPUTS=( "_site/booklet-pdfs/cover-page.pdf" 
+         "booklet-pdfs/blank.pdf"  
          "booklet-pdfs/step2_syllabus.pdf" 
          "booklet-pdfs/presentations/presentations_final.pdf"
+         "booklet-pdfs/blank.pdf"  
          )
 
 # # Use pdfunite (part of poppler) for simple concatenation
